@@ -1,4 +1,4 @@
-# watermark-LSB-algorithm
+# steganography-LSB-algorithm
 Algorithm hides message in random spot of an image.
 <br />
 <br />
